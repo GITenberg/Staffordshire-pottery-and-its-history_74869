@@ -1,0 +1,27 @@
+_repo: Staffordshire-pottery-and-its-history_74869
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wedgwood, Josiah C.
+    gutenberg_agent_id: '57700'
+    url: http://www.gutenberg.org/2009/agents/57700
+description: ''
+gutenberg_issued: '2024-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74869'
+language: en
+pgterms:marc904: https://archive.org/details/staffordshirepot00wedg
+pgterms:marc905: 20220727041315wedgewood
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bSampson, Low, Marston & Co. Ltd., $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Staffordshire pottery and its history
+url: http://www.gutenberg.org/ebooks/74869
