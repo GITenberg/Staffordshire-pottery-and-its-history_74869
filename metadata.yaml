@@ -1,11 +1,16 @@
 _repo: Staffordshire-pottery-and-its-history_74869
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74869-h/images/cover.jpg
 creator:
   author:
     agent_name: Wedgwood, Josiah C.
     gutenberg_agent_id: '57700'
     url: http://www.gutenberg.org/2009/agents/57700
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74869#Staffordshire-pottery-and-its-history
 gutenberg_issued: '2024-12-10'
 gutenberg_type: Text
 identifiers:
